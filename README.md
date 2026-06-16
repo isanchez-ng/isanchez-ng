@@ -7,6 +7,12 @@ I'm Ignacia, Product Owner from  Santiago, Chile 🇨🇱, currently living in M
 - I'm passionate about applied math and solving real problems with software 🤓
 - I use a lot of emojis, altough ChatGPT made it un-cool :(
 
+### Social
+<a href="https://www.linkedin.com/in/mignaciasanchezj/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+
 ### Skills
 
 #### Languages, libraries and frameworks
@@ -32,9 +38,7 @@ I'm Ignacia, Product Owner from  Santiago, Chile 🇨🇱, currently living in M
 
 
 
-
-
-
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=isanchez-ng" />
 
 
 
